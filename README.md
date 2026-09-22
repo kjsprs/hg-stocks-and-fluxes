@@ -4,7 +4,7 @@ This folder contains supplementary data to the journal article **Quantifying mer
 
 ## Repository Structure & Data Description
 - `terrain_units.gpkg` - spatial layer of the study area and its terrain units, based on Couture et al. 2018 (https://doi.org/10.1002/2017JG004166)
-- `LANDC_raster.tif` - spatial land cover raster of the study area, based on Bartsch et al. 2019 (https://doi.pangaea.de/10.1594/PANGAEA.897916)
+- `landcover_raster.tif` - spatial land cover raster of the study area, based on Bartsch et al. 2019 (https://doi.pangaea.de/10.1594/PANGAEA.897916)
 - `random_forest_model.R` - main R script containing data processing, modeling, and prediction
 
 
